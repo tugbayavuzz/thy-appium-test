@@ -1,0 +1,9 @@
+[
+  {
+  "key": "bookFlight",
+  "androidValue": "com.turkishairlines.mobile:id/acMain_btnBooking",
+  "androidType": "id",
+  "iosValue": "x",
+  "iosType": "x"
+}
+]
